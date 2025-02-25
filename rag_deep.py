@@ -113,8 +113,8 @@ def generate_answer(user_query, context_documents):
 # UI Configuration
 
 
-st.title("📘 DocuMind AI")
-st.markdown("### Your Intelligent Document Assistant")
+st.title("Document Analyzer")
+st.markdown("### Talk to your PDF documrnt")
 st.markdown("---")
 
 # File Upload Section
