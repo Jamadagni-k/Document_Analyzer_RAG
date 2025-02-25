@@ -114,7 +114,7 @@ def generate_answer(user_query, context_documents):
 
 
 st.title("Document Analyzer")
-st.markdown("### Talk to your PDF documrnt")
+st.markdown("### Talk to your PDF document")
 st.markdown("---")
 
 # File Upload Section
